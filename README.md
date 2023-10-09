@@ -15,3 +15,19 @@
 ![3](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/aebb53bb-98ae-4c08-a8fd-f363720f6f51)
 
 ![4](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/81434c76-cdfc-46c4-81ce-6273d5deb5a4)
+
+![5](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/6aa84317-8c44-4eae-9f31-550495c6bca4)
+
+## 3Finding value of K using Elbow method,Hierarchial clustering dendogram,Silhouette analysis 
+
+![6](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/0afe1014-965d-410e-9c0e-122fed9436fb)
+
+![7](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/debdca12-3557-4eef-9367-930360e5d7e8)
+
+![8](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/f13458d3-deaf-44da-a44a-654b75eaffb0)
+
+## 4 Building a cluster model
+
+![9](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/074eafa8-cb1d-4476-add9-1b0041c613ce)
+
+![10](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/5b31b630-c349-47d7-a483-104443866600)
