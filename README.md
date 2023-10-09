@@ -10,3 +10,5 @@ i have  **completed task 2** -**Predction using Machine learning**
 ![1](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/9d683663-bfcc-4ecc-a311-251f5074024c)
 
 2.Data visualization using Pair Plot with Regression Lines,Violin plots,Correlation Heatmap
+
+![2](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/0c13d110-b496-4a45-aa59-84017bb32b03)
