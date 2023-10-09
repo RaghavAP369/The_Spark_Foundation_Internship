@@ -5,7 +5,7 @@
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
-<u> 1.Import the needed libraries in the virtual environment,View the Csv file data,analyze the data:</u>
+## 1.Import the needed libraries in the virtual environment,View the Csv file data,analyze the data:
 
 ![1](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/94c1f1fe-b07e-4929-a190-3f66c3a9135c)
 
