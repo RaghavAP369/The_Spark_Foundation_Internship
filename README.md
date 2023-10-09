@@ -1,7 +1,7 @@
 # *The Spark Foundation Internship*
 ### Created by Raghav Anil Pillai
 
-# I have  **completed task 2** -**Prediction using Machine learning**
+# I have  **completed task 2** -**Prediction using *Un-Supervised* Machine learning**
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
