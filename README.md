@@ -3,7 +3,9 @@
 
 ##Overview of Completed Task-
 .### Task 1 Prediction using *Supervised Machine Learning/n*
+
 .### Task 2 Prediction using *Un-supervised Machine Learning/n*
+
 # I have  **completed task 1** -**Prediction using *Supervised* Machine learning**
 
 #### I here by present you all the **Outputs** recieved in the following order:
