@@ -44,29 +44,30 @@
 
 ## 1.Import the needed libraries in the virtual environment,View the Csv file data,analyze the data:
 
-![1](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/94c1f1fe-b07e-4929-a190-3f66c3a9135c)
+![1](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/bb79a12b-1153-4c31-a223-ffb0378271ed)
 
-![2](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/f3134ddd-961f-4f6c-94a9-7d4242f9aab4)
-
+![2](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/e8a31df0-9f9e-4bfc-8bd3-7800965ec8e6)
 
 ## 2.Data visualization using Pair Plot with Regression Lines,Violin plots,Correlation Heatmap
 
-![3](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/aebb53bb-98ae-4c08-a8fd-f363720f6f51)
+![3](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/7ef854fd-78c5-465b-bc76-ab4b0cd7dc3e)
 
-![4](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/81434c76-cdfc-46c4-81ce-6273d5deb5a4)
+![4](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/f1bee881-2689-49c7-a2be-b9a5887b4e2f)
 
-![5](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/6aa84317-8c44-4eae-9f31-550495c6bca4)
+![5](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/0e5dd93e-0723-4ec3-ac9d-3ac5f51bd54d)
 
 ## 3Finding value of K using Elbow method,Hierarchial clustering dendogram,Silhouette analysis 
 
-![6](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/0afe1014-965d-410e-9c0e-122fed9436fb)
+![6](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/7008b796-c687-4fe8-9678-a5b17516288b)
 
-![7](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/debdca12-3557-4eef-9367-930360e5d7e8)
+![7](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/37f96c8d-a636-4892-a741-f65b0d31d9b1)
 
-![8](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/f13458d3-deaf-44da-a44a-654b75eaffb0)
+![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/7cc8734a-6249-4b30-9654-22d721de6f5d)
 
 ## 4 Building a cluster model
 
-![9](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/074eafa8-cb1d-4476-add9-1b0041c613ce)
+![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/8c7c829a-a8c8-4433-bf46-f7c6a8b8c2d1)
 
-![10](https://github.com/RaghavAP369/Unsupervised-ML--1/assets/139637644/5b31b630-c349-47d7-a483-104443866600)
+![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/720e066e-afa7-44c3-a2c4-cd3962e62e06)
+
+![11](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/4797981c-cd5f-480b-aeb5-43aeaaf198f5)
