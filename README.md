@@ -2,10 +2,10 @@
 ### Created by Raghav Anil Pillai
 
 ## Overview of Completed Task-
-.
-### Task 1 Prediction using *Supervised Machine Learning/n*
 
-.### Task 2 Prediction using *Un-supervised Machine Learning/n*
+.### Task 1 Prediction using *Supervised Machine Learning*
+
+.### Task 2 Prediction using *Un-supervised Machine Learning*
 
 # I have  **completed task 1** -**Prediction using *Supervised* Machine learning**
 
