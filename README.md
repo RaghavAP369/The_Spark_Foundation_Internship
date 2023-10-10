@@ -15,23 +15,25 @@ https://github.com/RaghavAP369/The_Spark_Foundation_Internship/blob/main/README.
 ![1](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/28f6e459-2447-4f49-bbfe-04e6e3265511)
 
 ![2](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/d3515a45-3298-4254-a730-0cacf2b6ea24)
-## 2.Checking for null values
+## 2.Summarises Statistics Measures 
+
 
 ![3](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/33a548cf-b343-44fa-a4fc-ed9f362bd58e)
-## 3.Summarises Statistics Measures 
 
 ![4](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/16a74249-ba8f-46c7-9f6a-720e96b0afc4)
 
 ![5](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/53e94696-85dc-4194-b582-0dc3afdd8610)
-
+## 3.Distribution of Hours Studied
 ![6](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/08a51a67-9df1-43cb-8924-697dc6994e22)
-
+## 4.Distribution of Scores
 ![7](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/173ec7e5-ea77-4895-b9da-29a445c03d43)
+## 5.Linear Regression Analysis - Hours vs. Score
 
 ![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/9bd1ab72-afc6-44eb-9a1e-5e8af92a5fd8)
+## 6.Residual Analysis - Linear Regression
 
 ![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/b751ee1c-ccac-4306-b15e-6055a8916e12)
-
+## 7.Predicting Scores using Linear Regression
 ![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/f1704a47-309b-4209-887b-59dfe9195bb2)
 
 
