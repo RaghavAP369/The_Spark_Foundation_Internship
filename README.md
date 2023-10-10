@@ -64,9 +64,10 @@
 
 ![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/7cc8734a-6249-4b30-9654-22d721de6f5d)
 
+![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/8c7c829a-a8c8-4433-bf46-f7c6a8b8c2d1)
+
 ## 4 Building a cluster model
 
-![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/8c7c829a-a8c8-4433-bf46-f7c6a8b8c2d1)
 
 ![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/720e066e-afa7-44c3-a2c4-cd3962e62e06)
 
