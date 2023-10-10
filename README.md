@@ -2,7 +2,7 @@
 ### Created by Raghav Anil Pillai
 
 ## Overview of Completed Task-
-https://github.com/RaghavAP369/The_Spark_Foundation_Internship/blob/main/README.md
+
 .Task 1 Prediction using *Supervised Machine Learning*
 
 .Task 2 Prediction using *Un-supervised Machine Learning*
@@ -33,7 +33,7 @@ https://github.com/RaghavAP369/The_Spark_Foundation_Internship/blob/main/README.
 ## 6.Residual Analysis - Linear Regression
 
 ![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/b751ee1c-ccac-4306-b15e-6055a8916e12)
-## 7.Predicting Scores using Linear Regression
+## 7.Predicting *Scores* using Linear Regression and Evaluating Linear Regression Model to find *Mean Absolute Error*
 ![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/f1704a47-309b-4209-887b-59dfe9195bb2)
 
 
