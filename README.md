@@ -12,29 +12,36 @@
 #### I here by present you all the **Outputs** recieved in the following order:
 
 ## 1.Import all the needed libaries to run the program
-![1](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/28f6e459-2447-4f49-bbfe-04e6e3265511)
 
-![2](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/d3515a45-3298-4254-a730-0cacf2b6ea24)
+![1](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/946e9df1-dd0d-4a72-bd7f-2d9a2cd4f713)
+
+![2](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/dc6b24a9-9938-41d6-8712-8208998be016)
+
+![3](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/1a831b42-dda6-4163-8d22-80a18ff6f445)
 ## 2.Summarises Statistics Measures 
 
+![4](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/2d25d5d1-c04f-4d3d-b4de-c014f7680eb7)
 
-![3](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/33a548cf-b343-44fa-a4fc-ed9f362bd58e)
+![5](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/15309e4a-f67e-435a-9012-513aac3510be)
 
-![4](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/16a74249-ba8f-46c7-9f6a-720e96b0afc4)
+![6](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/5cc99903-19b0-4ebd-90ad-6ed05f5ea18e)
+## 3.Distribution of Hours Studied and Scroes
 
-![5](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/53e94696-85dc-4194-b582-0dc3afdd8610)
-## 3.Distribution of Hours Studied
-![6](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/08a51a67-9df1-43cb-8924-697dc6994e22)
-## 4.Distribution of Scores
-![7](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/173ec7e5-ea77-4895-b9da-29a445c03d43)
-## 5.Linear Regression Analysis - Hours vs. Score
+![7](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/33eab750-dc0b-44c1-8061-bcb418c766cf)
 
-![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/9bd1ab72-afc6-44eb-9a1e-5e8af92a5fd8)
-## 6.Residual Analysis - Linear Regression
+## 4.Linear Regression Analysis - Hours vs. Score
 
-![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/b751ee1c-ccac-4306-b15e-6055a8916e12)
-## 7.Predicting *Scores* using Linear Regression and Evaluating Linear Regression Model to find *Mean Absolute Error*
-![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/f1704a47-309b-4209-887b-59dfe9195bb2)
+![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/3ed4425b-827b-48ca-9901-be4f583ed6db)
+
+## 5.Residual Analysis - Linear Regression
+
+![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/ecc1e1f9-ed37-45eb-be1f-d4421a7c5076)
+
+## 6.Predicting *Scores* using Linear Regression and Evaluating Linear Regression Model to find *Mean Absolute Error*
+
+![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/4feffd35-780b-413a-9710-ef78b39cd1a6)
+
+![11](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/80ee1fd9-de5f-4509-a76d-7b746df60f12)
 
 
 
