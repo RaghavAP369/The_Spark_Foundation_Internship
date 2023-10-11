@@ -7,7 +7,10 @@
 
 .Task 2 Prediction using *Un-supervised Machine Learning*
 
-# I have  **completed task 1** -**Prediction using *Supervised* Machine learning**
+.Task 3 Exploratory *Data Analysis-Retail*
+
+
+# I have  **Completed Task 1** -**Prediction using *Supervised* Machine learning**
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
@@ -79,3 +82,50 @@
 ![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/720e066e-afa7-44c3-a2c4-cd3962e62e06)
 
 ![11](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/4797981c-cd5f-480b-aeb5-43aeaaf198f5)
+
+
+# I have  **Completed Task 3** - Exploratory *Data Analysis-Retail*
+
+#### I here by present you all the **Outputs** recieved in the following order:
+
+## 1.Importing the data,initalization of data
+
+![1](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/7303cda1-bcc8-4e2a-85bc-77d479980fb8)
+
+![2](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/26145c9a-f589-41fe-bfe6-2fc1282bba63)
+
+## 2. Highlighting Rows in Pandas DataFrame with Conditional Styling, Styling of a Pandas DataFrame Using style.applymap, Styling a Pandas DataFrame with Styling Function
+
+
+![3](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/824c0480-e2e3-4717-8669-b68b229eee15)
+![4](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/fec868f4-d62a-4e6b-9120-490ab5174175)
+![5](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/19b9cc1a-63e6-461b-9c96-2801c7ce8e92)
+
+## 3.Data Visualization
+![6](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/902ec7ec-e7af-40a1-8fe9-152610f66fe2)
+
+![7](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/23bfdd48-b628-4fc7-bda3-b3417fd6eec0)
+
+![8](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/9befe84a-d24a-413c-9ac8-359ba8aff339)
+
+![9](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/f6bf3696-fe15-4220-b3d0-96a3f6c6e4d6)
+
+![10](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/08342242-f1f2-4e20-84db-368d0371ed1e)
+
+![11](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/e3e67ea0-8fd7-4c20-9ba4-068c4117f705)
+
+![12](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/0c5c58f7-05ef-494c-9b0b-9976329a2f28)
+
+![13](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/28099794-e4f6-41da-8ae4-d054c9870612)
+
+![14](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/ca70f6d1-e424-4dd0-b1e0-4e6df5c94863)
+
+![15](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/93b7d450-be0f-43a2-bd14-c9f1ed632970)
+
+![16](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/9f2b6f94-2e93-47ea-b810-59d7f03b3c9f)
+
+![17](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/0008f501-8d69-4f58-9cf4-decd09906ba7)
+
+
+
+
