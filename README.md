@@ -15,7 +15,7 @@
 
 #### *Data can be found*-https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
-# I have  **Completed Task 1** -**Prediction using *Supervised* Machine learning**
+# **Completed Task 1** -**Prediction using *Supervised* Machine learning**
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
@@ -53,7 +53,7 @@
 
 
 
-# I have  **completed task 2** -**Prediction using *Un-Supervised* Machine learning**
+# **Completed Task 2** -**Prediction using *Un-Supervised* Machine learning**
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
