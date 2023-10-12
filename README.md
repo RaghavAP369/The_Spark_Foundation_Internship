@@ -3,12 +3,17 @@
 
 ## Overview of Completed Task-
 
-.Task 1 Prediction using *Supervised Machine Learning*
+.Task 1 Prediction using *Supervised Machine Learning* -
+
+### *Data can be found*-http://bit.ly/w-data
 
 .Task 2 Prediction using *Un-supervised Machine Learning*
 
+### *Data can be found*-https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+
 .Task 3 Exploratory *Data Analysis-Retail*
 
+### *Data can be found*-https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
 # I have  **Completed Task 1** -**Prediction using *Supervised* Machine learning**
 
