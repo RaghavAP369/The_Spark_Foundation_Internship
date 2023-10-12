@@ -89,7 +89,7 @@
 ![11](https://github.com/RaghavAP369/The_Spark_Foundation_Internship/assets/139637644/4797981c-cd5f-480b-aeb5-43aeaaf198f5)
 
 
-# I have  **Completed Task 3** - Exploratory *Data Analysis-Retail*
+# **Completed Task 3** - Exploratory *Data Analysis-Retail*
 
 #### I here by present you all the **Outputs** recieved in the following order:
 
